@@ -115,9 +115,7 @@ The solutions and outputs for each task are available in a separate directory.
 
   **npm install**
 
-  **npm start:transferhbar**  - To transfer hbar
-
-  **npm start:transferhbar**  - To transfer hbar
+  **npm createscheduledtx**  - To create scheduledtx
 
 
   The solution scripts are added in the  '<Scheduled_TX/scripts>' directory.
@@ -135,9 +133,9 @@ The solutions and outputs for each task are available in a separate directory.
 
   **npm install**
 
-  **npm start:transferhbar**  - To transfer hbar
+  **npm start:multisig**  - To transfer MultiSig
 
-  **npm start:transferhbar**  - To transfer hbar
+ 
 
  The solution scripts are added in the  '<Multi_Signature/scripts>' directory.
 
