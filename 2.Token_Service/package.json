@@ -1,0 +1,22 @@
+{
+  "name": "token_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.16.6",
+    "dotenv": "^16.0.1"
+  },
+  "scripts": {
+    "start:createfungible": "node scripts/taskFungible/createToken.js",
+    "start:queryfungible": "node scripts/taskFungible/queryBalance.js",
+    "start:increasefungiblesupply": "node scripts/taskFungible/increaseTokenSupply.js",
+    "start:transferfungible": "node scripts/taskFungible/transferToken.js",
+    "start:pausefungible": "node scripts/taskFungible/pauseToken.js",
+    "start:unpausefungible": "node scripts/taskFungible/unpauseToken.js",
+    "start:transferwithoutassocfungible": "node scripts/taskFungible/transferWithoutAssoc.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

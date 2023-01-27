@@ -1,0 +1,77 @@
+
+****************************************************************************
+The current account ID is: 0.0.48966779
+The current account private key :a5924e8bfddda9d5d16dd2b5caa590ab2912a19595d598ae84f9630a4c5207dc
+My account balance 10000.25457683 ℏ HBar
+The current account balance is: 1000025457683 tinybar.
+****************************************************************************
+The new account ID is: 0.0.49421418
+The new account private key :302e020100300506032b657004220420bd28dd35f4a9ec4c765c055fbc670b36212625e67fbb32c1715af1be09e0f9d0
+The new account public key :302a300506032b657003210053961109bb1214ded860dfb6745d8f4162923c364da01db7c5053c6cb75a2359
+The new account balance is: 10 ℏ HBar.
+The new account balance is: 1000000000 tinybar.
+****************************************************************************
+The new account ID is: 0.0.49421419
+The new account private key :302e020100300506032b65700422042050562b44a7a492f9a52686140b0a18c087c3c25781aa468eeff4b88ddcbfac35
+The new account public key :302a300506032b65700321009397cdc1fc5d1c3bf767c4fc200f203ff1fce06287a01506d0f6b7218a2b736e
+The new account balance is: 10 ℏ HBar.
+The new account balance is: 1000000000 tinybar.
+****************************************************************************
+The new account ID is: 0.0.49421420
+The new account private key :302e020100300506032b65700422042078f8f30af3d384939dbfa1e6a40eebe4cc1141447bccaadeaa5f2cef370546e2
+The new account public key :302a300506032b6570032100b24adf1e7afc683d56b0736832ea581496911d3a29ba8372975c3cd8f805a856
+The new account balance is: 10 ℏ HBar.
+The new account balance is: 1000000000 tinybar.
+****************************************************************************
+The new account ID is: 0.0.49421421
+The new account private key :302e020100300506032b657004220420ae5138e5248ef346cc18f432ad82a9063616ca8e2cf98033e402d59115cc756d
+The new account public key :302a300506032b65700321009e3a2eb9fc7a71664eca7c3bbf5ec55559822316c5c2eded318fe817232e779a
+The new account balance is: 10 ℏ HBar.
+The new account balance is: 1000000000 tinybar.
+
+*****************************************************TEST***********************
+The new account ID is: 0.0.49421422
+The new account private key :302e020100300506032b657004220420ad4091a08a3668b139a8bc465d53bb71d809cb9f06caae9c61606005de02c683
+The new account public key :302a300506032b6570032100ab10842c18ca70f4b7b75648cecd722ca68b8feb442f3cf6eb97c756304efaab
+The new account balance is: 10 ℏ HBar.
+The new account balance is: 1000000000 tinybar.
+
+
+
+**************************
+
+****************************************************************************
+The current account ID is: 0.0.1346
+The current account private key :a5924e8bfddda9d5d16dd2b5caa590ab2912a19595d598ae84f9630a4c5207dc
+My account balance 10000 ℏ HBar
+The current account balance is: 1000000000000 tinybar.
+****************************************************************************
+The new account ID is: 0.0.7761
+The new account private key :302e020100300506032b657004220420644168438be0ca6e0b92d171f4b764e5ae6cbe531cfc2344b228ad2f420d6256
+The new account public key :302a300506032b6570032100ba6215d4bf5b6b1c03f9548e87428af1d62270f816571582d53f7c11c03f81bc
+The new account balance is: 50 ℏ HBar.
+The new account balance is: 5000000000 tinybar.
+****************************************************************************
+The new account ID is: 0.0.7763
+The new account private key :302e020100300506032b6570042204209de6984e1e3dd88d173c2dbbff536b9bebc6c62628ab13c19d99338369f8eee5
+The new account public key :302a300506032b657003210094674c08f1019180b15b759bf46a1e7318321b7066ad6861b9bed1ce1cd7b5b9
+The new account balance is: 50 ℏ HBar.
+The new account balance is: 5000000000 tinybar.
+****************************************************************************
+The new account ID is: 0.0.7765
+The new account private key :302e020100300506032b657004220420f0103c286c2c3083496b8fb9534dfa4c8c086c4977be1d8d80198f9173634b89
+The new account public key :302a300506032b657003210063a62527abdc922adef07d3770448c70719525f153a790ca8b158bd21b594753
+The new account balance is: 50 ℏ HBar.
+The new account balance is: 5000000000 tinybar.
+****************************************************************************
+The new account ID is: 0.0.7766
+The new account private key :302e020100300506032b65700422042031eed815e833d19fef6a4739ada8321d9af9e143fb322d69a8c6ccf537477eaf
+The new account public key :302a300506032b65700321008d37a5a7acaf61b924984a0905a0273a69cedbe2ac8ae9f7ea13bd622a80cf6d
+The new account balance is: 50 ℏ HBar.
+The new account balance is: 5000000000 tinybar.
+****************************************************************************
+The new account ID is: 0.0.7767
+The new account private key :302e020100300506032b6570042204205499fc04bf59974e474ac4bf509710a4de56481c1ea59c8696a42748b7f1e411
+The new account public key :302a300506032b65700321004418544f66fad9d9002d92e9403f2bbac8493b5cf781a0d9c44d0657aaaa25d5
+The new account balance is: 50 ℏ HBar.
+The new account balance is: 5000000000 tinybar.
